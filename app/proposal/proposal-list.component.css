@@ -1,3 +1,19 @@
 .proposal-link:hover {
-	text-decoration: none;
+  text-decoration:none;
+}
+
+.list-group-item-heading {
+  color: white;
+}
+
+.darkhover:hover {
+  background-color: #9093A3;
+}
+
+.proposal-tab {
+  background-color: #1F3E69;
+}
+
+.words-bright {
+  color: #f0b634;
 }
